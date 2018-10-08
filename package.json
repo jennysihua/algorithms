@@ -1,0 +1,12 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "divideSubsetSum.js",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC"
+}
