@@ -1,3 +1,5 @@
+/* Implement Mergesort */
+
 const merge = (arr1, arr2) => {
   let merged = [];
   while (arr1.length && arr2.length) {
