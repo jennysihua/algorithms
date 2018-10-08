@@ -41,19 +41,6 @@ PROBABILITY
   - Elementary probablity theory
   - n-choose-k problem
 
-SECURITY
-  - XSS (Cross-Site Scripting)
-    - Steps:
-      1. Malicious data enters the server via an HTTP request from an untrusted source.
-      2. Server-side validation either doesn't exist or is insufficient to catch the attack.
-      3. The malicious data is included dynamic content the server sends to a user.
-    - Kinds:
-      - Mostly JS but can also be HTML, Flash, or any other kind of code.
-      - Two main subtypes:
-        - Persistent - actually saved in the server, and can occur without the attacker specifically targeting users.
-        - Reflective - one-off, and must be triggered by the end user, who clicks on a masked link for example.
-  - XSRF (Cross-Site Request Forgery)
-  - SQL Injection
 
 PROTOTYPAL INHERITANCE
 

@@ -1,6 +1,7 @@
 # Sorting Notes
-  ## Definition: A permutation that brings elements into order according to a total order. No sorting algorithm has a better worst case runtime than O(NlogN).
-  ## Types:
+  ## Definition
+  ### A permutation that brings elements into order according to a total order. No sorting algorithm has a better worst case runtime than O(NlogN)
+  ## Types
   ### Bubble sort
   * The most basic and worst sort. keep on comparing and swapping two adjacent elements over and over until there are no more swaps.
   ### Selection sort
